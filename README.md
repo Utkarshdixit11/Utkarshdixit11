@@ -145,7 +145,6 @@ I love building things that work in the real world. My stack spans MERN, TypeScr
 
 ## 🏆 Achievements
 
-- 🥇 **1st Place** — Alankrit Inter-College Web Dev Competition, Lucknow (2024) — out of 30+ teams
 - 🎓 **NIELIT Certified** in AI & ML — Python, NLP, Deep Learning, ASR (Govt. of India, 2025)
 
 ---
