@@ -4,11 +4,6 @@
   <b>Full Stack Developer ·  · BCA @ Shri Ramswaroop College (Class of 2027)</b><br/>
   Lucknow, India · <a href="mailto:Utkarshdixit925@gmail.com">Utkarshdixit925@gmail.com</a> · <a href="https://linkedin.com/in/utkarshdixit9">LinkedIn</a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Utkarshdixit11&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## About Me
