@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Utkarsh Dixit 👋</h1>
+<h1 align="center">Hi, I'm Utkarsh Dixit </h1>
 
 <p align="center">
-  <b>Full Stack Developer · AI/ML Enthusiast · BCA @ Shri Ramswaroop College (Class of 2027)</b><br/>
+  <b>Full Stack Developer ·  · BCA @ Shri Ramswaroop College (Class of 2027)</b><br/>
   Lucknow, India · <a href="mailto:Utkarshdixit925@gmail.com">Utkarshdixit925@gmail.com</a> · <a href="https://linkedin.com/in/utkarshdixit9">LinkedIn</a>
 </p>
 
@@ -19,7 +19,6 @@ I love building things that work in the real world. My stack spans MERN, TypeScr
 
 - 🔭 Currently building AI-powered full-stack applications
 - 🌱 Exploring LangChain, Vector Databases, and advanced RAG architectures
-- 🏆 1st place out of 30+ teams at **Alankrit** inter-college web dev competition (2024)
 - 🎓 Certified in **AI & ML by NIELIT** (Ministry of Electronics & IT, Govt. of India)
 - 💼 Open to **Junior Full Stack** or **AI Developer** roles
 
@@ -121,26 +120,6 @@ I love building things that work in the real world. My stack spans MERN, TypeScr
 - Canvas-driven minimap renders a scaled real-time view of the entire battlefield
 - Global leaderboard, in-game settings, and a dedicated admin panel for grid resets and size control
 - Single-command startup script that bootstraps MongoDB, the Express server, and WebSocket layer together
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Utkarshdixit11&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshdixit11&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarshdixit11&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievements
-
-- 🥇 **1st Place** — Alankrit Inter-College Web Dev Competition, Lucknow (2024) — out of 30+ teams
-- 🎓 **NIELIT Certified** in AI & ML — Python, NLP, Deep Learning, ASR (Govt. of India, 2025)
 
 ---
 
