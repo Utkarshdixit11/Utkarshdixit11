@@ -59,6 +59,7 @@ I love building things that work in the real world. My stack spans MERN, TypeScr
 
 ## 🚀 Featured Projects
 
+
 ### 🤖 [HireMind-AI](https://github.com/Utkarshdixit11/HireMind-AI) · [Live Demo](https://hire-mind-ai-ud.vercel.app/)
 > AI-powered recruitment platform with dual portals for job seekers & recruiters
 
@@ -73,34 +74,6 @@ I love building things that work in the real world. My stack spans MERN, TypeScr
 - Kanban-style candidate tracker managing 4 pipeline stages
 
 ---
-
-### 🍔 [ZingBite](https://github.com/Utkarshdixit11/ZingBite) · [Live Demo](https://food-del-frontend-anq3.onrender.com/)
-> Full-stack food delivery platform — customer app + admin panel + REST API
-
-![MERN](https://img.shields.io/badge/MERN-Stack-green?style=flat)
-![Stripe](https://img.shields.io/badge/Stripe-Payments-635BFF?style=flat)
-![JWT](https://img.shields.io/badge/JWT-Auth-orange?style=flat)
-
-- 50+ menu items, 5 order states, and JWT-secured sessions deployed on Render
-- Stripe hosted checkout with server-side payment verification
-- Optimized MongoDB queries reducing average response time by ~40% on order tracking endpoints
-- Persistent cart that syncs across sessions via MongoDB
-
----
-
-### 🏥 [PulseX](https://github.com/Utkarshdixit11/PulseX) · Live
-> Healthcare platform centralizing medical records with AI-driven risk insights
-
-![React](https://img.shields.io/badge/React-Node.js-blue?style=flat)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat)
-![MongoDB](https://img.shields.io/badge/MongoDB-brightgreen?style=flat)
-
-- Role-based access for patient & doctor portals across 5+ feature areas
-- Drug Interaction Checker, Hereditary Disease Mapping, and AI health recommendations
-- 10+ RESTful API endpoints with structured MongoDB schemas
-
----
-
 ### ⚔️ [GridWars](https://github.com/Utkarshdixit11/GridWars)
 > Real-time multiplayer territory conquest — WebSockets, canvas minimap, live leaderboard
 
@@ -116,6 +89,20 @@ I love building things that work in the real world. My stack spans MERN, TypeScr
 - Single-command startup script that bootstraps MongoDB, the Express server, and WebSocket layer together
 
 ---
+### 🍔 [ZingBite](https://github.com/Utkarshdixit11/ZingBite) · [Live Demo](https://food-del-frontend-anq3.onrender.com/)
+> Full-stack food delivery platform — customer app + admin panel + REST API
+
+![MERN](https://img.shields.io/badge/MERN-Stack-green?style=flat)
+![Stripe](https://img.shields.io/badge/Stripe-Payments-635BFF?style=flat)
+![JWT](https://img.shields.io/badge/JWT-Auth-orange?style=flat)
+
+- 50+ menu items, 5 order states, and JWT-secured sessions deployed on Render
+- Stripe hosted checkout with server-side payment verification
+- Optimized MongoDB queries reducing average response time by ~40% on order tracking endpoints
+- Persistent cart that syncs across sessions via MongoDB
+
+---
+
 
 ## 📫 Let's Connect
 
