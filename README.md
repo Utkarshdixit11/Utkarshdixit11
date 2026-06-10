@@ -19,6 +19,7 @@ I love building things that work in the real world. My stack spans MERN, TypeScr
 
 - 🔭 Currently building AI-powered full-stack applications
 - 🌱 Exploring LangChain, Vector Databases, and advanced RAG architectures
+- 🏆 1st place out of 30+ teams at **Alankrit** inter-college web dev competition (2024)
 - 🎓 Certified in **AI & ML by NIELIT** (Ministry of Electronics & IT, Govt. of India)
 - 💼 Open to **Junior Full Stack** or **AI Developer** roles
 
@@ -26,45 +27,28 @@ I love building things that work in the real world. My stack spans MERN, TypeScr
 
 ## 🛠️ Tech Stack
 
-**AI / ML**
-
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6F00?style=flat)
-![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat)
-![ASR](https://img.shields.io/badge/ASR-E91E63?style=flat)
-
-**Languages**
+**Languages & Runtimes**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-**Frontend**
+**Frontend & Mobile**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white)
-
-**Mobile**
-
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-**Backend & Databases**
+**Backend, AI & Data**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-**Tools & Cloud**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat)
 
 ---
 
@@ -124,8 +108,19 @@ I love building things that work in the real world. My stack spans MERN, TypeScr
 
 ---
 
-### 🎮 [GridWars](https://github.com/Utkarshdixit11/GridWars)
-> Strategy/arcade game project
+### ⚔️ [GridWars](https://github.com/Utkarshdixit11/GridWars)
+> Real-time multiplayer territory conquest — WebSockets, canvas minimap, live leaderboard
+
+![Node.js](https://img.shields.io/badge/Node.js-WebSockets-green?style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-brightgreen?style=flat)
+![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-Canvas-F7DF1E?style=flat)
+
+- Players claim tiles on a shared grid in real-time; state synchronized across all clients via WebSockets (`ws` library) with millisecond latency
+- Tile lock system — captured cells stay locked for 20s, enforced server-side with lock timestamps persisted in MongoDB
+- Adjacency combo scoring: base 10pts per tile, 15pts for captures adjacent to owned territory, with live cluster-size indicators
+- Canvas-driven minimap renders a scaled real-time view of the entire battlefield
+- Global leaderboard, in-game settings, and a dedicated admin panel for grid resets and size control
+- Single-command startup script that bootstraps MongoDB, the Express server, and WebSocket layer together
 
 ---
 
@@ -144,6 +139,7 @@ I love building things that work in the real world. My stack spans MERN, TypeScr
 
 ## 🏆 Achievements
 
+- 🥇 **1st Place** — Alankrit Inter-College Web Dev Competition, Lucknow (2024) — out of 30+ teams
 - 🎓 **NIELIT Certified** in AI & ML — Python, NLP, Deep Learning, ASR (Govt. of India, 2025)
 
 ---
@@ -158,6 +154,4 @@ I love building things that work in the real world. My stack spans MERN, TypeScr
 
 ---
 
-<p align="center">
-  <i>Open to Junior Full Stack & AI Developer roles — let's build something great.</i>
-</p>
+
