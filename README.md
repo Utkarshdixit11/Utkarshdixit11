@@ -19,7 +19,6 @@ I love building things that work in the real world. My stack spans MERN, TypeScr
 
 - 🔭 Currently building AI-powered full-stack applications
 - 🌱 Exploring LangChain, Vector Databases, and advanced RAG architectures
-- 🏆 1st place out of 30+ teams at **Alankrit** inter-college web dev competition (2024)
 - 🎓 Certified in **AI & ML by NIELIT** (Ministry of Electronics & IT, Govt. of India)
 - 💼 Open to **Junior Full Stack** or **AI Developer** roles
 
