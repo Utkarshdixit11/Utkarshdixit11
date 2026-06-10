@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Utkarsh Dixit </h1>
 
 <p align="center">
-  <b>Full Stack Developer ·  · BCA @ Shri Ramswaroop College (Class of 2027)</b><br/>
+  <b>Full Stack Developer · BCA @ Shri Ramswaroop College (Class of 2027)</b><br/>
   Lucknow, India · <a href="mailto:Utkarshdixit925@gmail.com">Utkarshdixit925@gmail.com</a> · <a href="https://linkedin.com/in/utkarshdixit9">LinkedIn</a>
 </p>
 ---
@@ -15,7 +15,6 @@ I love building things that work in the real world. My stack spans MERN, TypeScr
 - 🔭 Currently building AI-powered full-stack applications
 - 🌱 Exploring LangChain, Vector Databases, and advanced RAG architectures
 - 🎓 Certified in **AI & ML by NIELIT** (Ministry of Electronics & IT, Govt. of India)
-- 💼 Open to **Junior Full Stack** or **AI Developer** roles
 
 ---
 
