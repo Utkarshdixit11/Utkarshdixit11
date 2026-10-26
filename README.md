@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,36,42&height=230&section=header&text=Utkarsh%20Dixit&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20%E2%80%A2%20Flutter%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20Interactive%203D%20Web&descFontSize=19&descAlignY=64&descColor=38BDF8&animation=twinkling" width="100%" alt="Utkarsh Dixit Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,36,42&height=230&section=header&text=Utkarsh%20Dixit&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20%E2%80%A2%20Flutter%20%E2%80%A2%20AI%20Integrations%20Engineer&descFontSize=19&descAlignY=64&descColor=38BDF8&animation=twinkling" width="100%" alt="Utkarsh Dixit Banner" />
 
 <!-- Creative Typing Animation -->
 <a href="https://github.com/Utkarshdixit11">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+MERN+%26+Flutter+Mobile+Developer;Architecting+Real-Time+Multiplayer+Systems;High-End+Motion+Design+%26+Interactive+3D+Web;Engineering+Gemini+AI+%26+LLM+Pipelines;Crafting+Fluid%2C+Cinematic+Digital+Experiences" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+MERN+%26+Flutter+Mobile+Developer;Architecting+Real-Time+Multiplayer+Systems;Engineering+Gemini+AI+%26+LLM+Pipelines;Crafting+Production-Ready+Web+%26+Mobile+Apps;Fast%2C+Reliable+%26+Modern+Full-Stack+Architecture" alt="Typing Animation" />
 </a>
 
 <br/><br/>
@@ -33,12 +33,11 @@
   </a>
 </p>
 
-<!-- High-End 3D & Motion UI Status HUD -->
+<!-- Live Profile Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/⚡_ENGINE-WebGL_2.0_•_Three.js_•_R3F-00F0FF?style=flat-square&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/🎬_MOTION-Theatre.js_•_GSAP_•_Lenis-A855F7?style=flat-square" />
-  <img src="https://img.shields.io/badge/●_SYSTEM-Active_•_60_FPS-10B981?style=flat-square" />
-  <img src="https://img.shields.io/badge/📍_BASE-Lucknow%2C%20India-3B82F6?style=flat-square" />
+  <img src="https://img.shields.io/badge/📍_Location-Lucknow%2C%20India-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎓_Education-BCA%20(2024--2027)-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/⚡_Status-Open%20to%20Opportunities-success?style=flat-square" />
 </p>
 
 <!-- Glowing Cyber Divider -->
@@ -46,33 +45,15 @@
 
 </div>
 
-### 🎬 Theatre.js // Timeline Sequence & Studio Controls
+---
 
-```yaml
-┌── 🎛️ THEATRE.JS MOTION CONTROLLER ────────────────────────────────────────────────────────┐
-│ ▶ PLAYHEAD [00:03:00]  |  FPS: 60  |  CANVAS: 3D VIEWPORT  |  EASING: cubic-bezier(0.16, 1, 0.3, 1) │
-├───────────────────────────────────────────────────────────────────────────────────────────┤
-│ ├─ [Layer 01] ──◆ Keyframe 0.0s: SlaySheet (Multiplayer Collaborative Document Engine)   ─◆
-│ ├─ [Layer 02] ──◆ Keyframe 1.2s: HireMind AI (Intelligent Recruitment Ecosystem & Coach) ─◆
-│ ├─ [Layer 03] ──◆ Keyframe 2.4s: ZingBite (3-Tier Full-Stack Food Delivery Platform)    ─◆
-│ └─ [Camera]   ──◆ Position: [x: 0, y: 1.5, z: 4.2]  |  Fov: 45°  |  Bloom: Enabled        ─◆
-└───────────────────────────────────────────────────────────────────────────────────────────┘
-```
+### 👨‍💻 About Me
 
-<div align="center">
+I am a **Full-Stack and Flutter Developer** who builds and ships end-to-end web and mobile applications with modern architectures. My work focuses on **real-time collaborative systems** (WebSockets, Socket.IO), **Generative AI integrations** (Google Gemini), and scalable full-stack products.
 
-```javascript
-const developerState = {
-    name: "Utkarsh Dixit",
-    education: "BCA (2024–2027) | Shri Ramswaroop Memorial College",
-    architectureFocus: ["Real-Time Multiplayer", "Generative AI Systems", "High-End Motion UI"],
-    certifications: ["Full-Stack MERN (Grade S)", "Artificial Intelligence (Grade S) @ NIELIT"],
-    shippedProduction: "7 Commercial Apps across Web, Mobile & Desktop @ PanScience Innovations",
-    activeTop3: ["SlaySheet", "HireMind AI", "ZingBite"]
-};
-```
-
-</div>
+- 🚀 **Industry Experience**: Shipped production features across iOS, Android, and Web applications at **PanScience Innovations LLP** (including **Botza**, **OwnChat**, and **Steno AI**).
+- 🏆 **Honors & Certifications**: Completed intensive industrial training in Full-Stack MERN and Artificial Intelligence at **NIELIT Lucknow (MeitY, Govt. of India)** with highest honors (**Grade S, 80%+**).
+- 🎓 **Education**: Bachelor of Computer Applications (BCA, 2024–2027) at Shri Ramswaroop Memorial College of Management, Lucknow.
 
 <!-- Glowing Cyber Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Glowing Divider" />
