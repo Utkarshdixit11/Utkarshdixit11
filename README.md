@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,36,42&height=230&section=header&text=Utkarsh%20Dixit&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20%E2%80%A2%20Flutter%20%E2%80%A2%20Generative%20AI%20Engineer&descFontSize=20&descAlignY=64&descColor=38BDF8&animation=twinkling" width="100%" alt="Utkarsh Dixit Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,36,42&height=230&section=header&text=Utkarsh%20Dixit&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20%E2%80%A2%20Flutter%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20Interactive%203D%20Web&descFontSize=19&descAlignY=64&descColor=38BDF8&animation=twinkling" width="100%" alt="Utkarsh Dixit Banner" />
 
 <!-- Creative Typing Animation -->
 <a href="https://github.com/Utkarshdixit11">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+%26+Flutter+Developer;Architecting+Real-Time+Multiplayer+Systems;Engineering+Gemini+AI+%26+LLM+Pipelines;Client-Side+Zero-Egress+Data+Engines;Crafting+Fluid%2C+Cinematic+User+Experiences" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+MERN+%26+Flutter+Mobile+Developer;Architecting+Real-Time+Multiplayer+Systems;High-End+Motion+Design+%26+Interactive+3D+Web;Engineering+Gemini+AI+%26+LLM+Pipelines;Crafting+Fluid%2C+Cinematic+Digital+Experiences" alt="Typing Animation" />
 </a>
 
 <br/><br/>
@@ -33,11 +33,12 @@
   </a>
 </p>
 
-<!-- Live Profile Badges -->
+<!-- High-End 3D & Motion UI Status HUD -->
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Location-Lucknow%2C%20India-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/🎓_Education-BCA%20(2024--2027)-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/⚡_Status-Open%20to%20Opportunities-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/⚡_ENGINE-WebGL_2.0_•_Three.js_•_R3F-00F0FF?style=flat-square&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎬_MOTION-Theatre.js_•_GSAP_•_Lenis-A855F7?style=flat-square" />
+  <img src="https://img.shields.io/badge/●_SYSTEM-Active_•_60_FPS-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/📍_BASE-Lucknow%2C%20India-3B82F6?style=flat-square" />
 </p>
 
 <!-- Glowing Cyber Divider -->
@@ -45,26 +46,31 @@
 
 </div>
 
-### ⚡ Developer Console
+### 🎬 Theatre.js // Timeline Sequence & Studio Controls
 
-```javascript
-const developer = {
-    name: "Utkarsh Dixit",
-    education: "BCA (2024–2027) | Shri Ramswaroop Memorial College",
-    specialization: ["Full-Stack MERN", "Flutter Mobile", "Real-Time WebSockets", "Generative AI"],
-    certifications: ["Full-Stack MERN (Grade S)", "Artificial Intelligence (Grade S) @ NIELIT"],
-    industryExperience: "Shipped 7 Production Apps @ PanScience Innovations LLP",
-    flagshipCreations: ["SlaySheet", "Replay", "HireMind AI"],
-    currentMission: "Building latency-critical real-time tools & AI-native workflows"
-};
+```yaml
+┌── 🎛️ THEATRE.JS MOTION CONTROLLER ────────────────────────────────────────────────────────┐
+│ ▶ PLAYHEAD [00:03:00]  |  FPS: 60  |  CANVAS: 3D VIEWPORT  |  EASING: cubic-bezier(0.16, 1, 0.3, 1) │
+├───────────────────────────────────────────────────────────────────────────────────────────┤
+│ ├─ [Layer 01] ──◆ Keyframe 0.0s: SlaySheet (Multiplayer Collaborative Document Engine)   ─◆
+│ ├─ [Layer 02] ──◆ Keyframe 1.2s: HireMind AI (Intelligent Recruitment Ecosystem & Coach) ─◆
+│ ├─ [Layer 03] ──◆ Keyframe 2.4s: ZingBite (3-Tier Full-Stack Food Delivery Platform)    ─◆
+│ └─ [Camera]   ──◆ Position: [x: 0, y: 1.5, z: 4.2]  |  Fov: 45°  |  Bloom: Enabled        ─◆
+└───────────────────────────────────────────────────────────────────────────────────────────┘
 ```
-
----
 
 <div align="center">
 
-<!-- Animated Trophy Showcase -->
-<img src="https://github-profile-trophy.vercel.app/?username=Utkarshdixit11&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1&column=7" width="100%" alt="GitHub Trophies" />
+```javascript
+const developerState = {
+    name: "Utkarsh Dixit",
+    education: "BCA (2024–2027) | Shri Ramswaroop Memorial College",
+    architectureFocus: ["Real-Time Multiplayer", "Generative AI Systems", "High-End Motion UI"],
+    certifications: ["Full-Stack MERN (Grade S)", "Artificial Intelligence (Grade S) @ NIELIT"],
+    shippedProduction: "7 Commercial Apps across Web, Mobile & Desktop @ PanScience Innovations",
+    activeTop3: ["SlaySheet", "HireMind AI", "ZingBite"]
+};
+```
 
 </div>
 
@@ -75,7 +81,7 @@ const developer = {
 
 ### 🏆 Top 3 Flagship Projects
 
-Based on full codebase and architectural analysis, here are the **Top 3 Flagship Applications** demonstrating high-throughput real-time systems, zero-egress browser data processing, and enterprise AI recruitment:
+Curated showcase matching production experience and resume benchmarks:
 
 <br/>
 
@@ -124,35 +130,7 @@ Based on full codebase and architectural analysis, here are the **Top 3 Flagship
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>🥈 02. Replay — Spotify Wrapped</h3>
-        <p>
-          <a href="https://replay-xi-rose.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/🚀_Live_Demo-1ED760?style=for-the-badge&logo=spotify&logoColor=black" alt="Replay Live" />
-          </a>
-          &nbsp;
-          <a href="./projects/replay.md">
-            <img src="https://img.shields.io/badge/📖_Docs-3B82F6?style=for-the-badge&logo=markdown&logoColor=white" alt="Replay Docs" />
-          </a>
-        </p>
-      </div>
-      <p><strong>Private, In-Browser Spotify Wrapped & Storytelling Engine</strong></p>
-      <ul>
-        <li><b>🛡️ Zero-Egress Privacy:</b> 100% in-browser processing. Zero backend, zero Spotify API credentials, zero network tracking via strict CSP.</li>
-        <li><b>⚡ Web Worker Pipeline:</b> Streaming decompression with <code>fflate</code> decodes 500,000+ plays (~150MB zip/JSON) in &lt;4s without UI thread drops.</li>
-        <li><b>📊 Hidden Listening Analytics:</b> Computes Night Owl scores (12 AM–5 AM), obsession tracks, discovery rates, and taste evolution timelines.</li>
-        <li><b>📱 9:16 Story Cards:</b> 10-card mobile Wrapped experience downloadable as 1080×1920 PNGs and LinkedIn cards.</li>
-        <li><b>🤝 Taste Compatibility:</b> Vector cosine similarity comparison between friend profiles without exposing raw timestamps.</li>
-      </ul>
-      <div align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" />
-        <img src="https://img.shields.io/badge/Web_Workers-FF4081?style=flat-square" />
-        <img src="https://img.shields.io/badge/fflate_Stream-00C853?style=flat-square" />
-        <img src="https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white&style=flat-square" />
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🥉 03. HireMind AI — Recruitment</h3>
+        <h3>🥈 02. HireMind AI — Recruitment</h3>
         <p>
           <a href="https://hire-mind-ai-ud.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/🚀_Live_Demo-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="HireMind Live" />
@@ -182,6 +160,38 @@ Based on full codebase and architectural analysis, here are the **Top 3 Flagship
         <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
       </div>
     </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🥉 03. ZingBite — Food Delivery</h3>
+        <p>
+          <a href="https://food-del-frontend-anq3.onrender.com/" target="_blank">
+            <img src="https://img.shields.io/badge/🛍️_Customer_Store-orange?style=for-the-badge&logo=render&logoColor=white" alt="ZingBite Store" />
+          </a>
+          &nbsp;
+          <a href="https://food-del-admin-2tq7.onrender.com/" target="_blank">
+            <img src="https://img.shields.io/badge/🛠️_Admin-blueviolet?style=for-the-badge&logo=render&logoColor=white" alt="ZingBite Admin" />
+          </a>
+          &nbsp;
+          <a href="https://github.com/Utkarshdixit11/ZingBite" target="_blank">
+            <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="ZingBite Repo" />
+          </a>
+        </p>
+      </div>
+      <p><strong>Full-Stack Food Delivery Platform & Restaurant Admin Suite</strong></p>
+      <ul>
+        <li><b>🛒 Persistent Cart Sync:</b> Cart state automatically syncs to MongoDB, surviving page reloads and device logouts.</li>
+        <li><b>💳 Stripe Payment Verification:</b> Server-side checkout verification and webhook status confirmations.</li>
+        <li><b>🛠️ Restaurant Management Panel:</b> Multi-route dashboard for real-time menu manipulation, Multer uploads, and order dispatching.</li>
+        <li><b>⚡ High Performance:</b> Optimized queries reducing order retrieval latency by ~40% across active customer routes.</li>
+        <li><b>🔐 JWT & bcrypt Protection:</b> End-to-end secured user sessions and protected API routes.</li>
+      </ul>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React_19-61DAFB?logo=react&logoColor=black&style=flat-square" />
+        <img src="https://img.shields.io/badge/Express_5-000000?logo=express&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
+      </div>
+    </td>
   </tr>
 </table>
 
@@ -189,28 +199,26 @@ Based on full codebase and architectural analysis, here are the **Top 3 Flagship
 
 <!-- COLLAPSIBLE OTHER PROJECTS -->
 <details>
-  <summary><b>📂 View Other Notable Projects (GridWars, ZingBite)</b></summary>
+  <summary><b>📂 View Other Notable Projects (Replay, GridWars)</b></summary>
   <br/>
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h4>⚔️ GridWars — Real-Time Multiplayer Territory Battle</h4>
+        <h4>🎧 Replay — Private In-Browser Spotify Wrapped</h4>
+        <p>
+          <a href="https://replay-xi-rose.vercel.app/" target="_blank"><b>Live Demo</b></a> | 
+          <a href="./projects/replay.md"><b>Documentation</b></a>
+        </p>
+        <p>100% private in-browser Spotify Wrapped with <b>zero egress</b>. Web Worker pipeline decodes 500k+ plays in &lt;4s using <code>fflate</code>. Features 1080×1920 9:16 exportable story cards and cosine similarity taste matching vectors.</p>
+      </td>
+      <td width="50%" valign="top">
+        <h4>⚔️ GridWars — Real-Time Multiplayer Territory Conquest</h4>
         <p>
           <a href="https://gridwars-7w1b.onrender.com/" target="_blank"><b>Play Live Arena</b></a> | 
           <a href="https://github.com/Utkarshdixit11/GridWars" target="_blank"><b>GitHub Repo</b></a> | 
           <a href="./projects/gridwars.md"><b>Documentation</b></a>
         </p>
-        <p>Synchronized real-time grid battle arena powered by native <b>WebSockets</b>. Features 20s tile locks, cooldown sweeping rings, adjacent cluster streak bonuses (<code>🔥 Combo</code>), live global leaderboards, and administrative grid controls.</p>
-      </td>
-      <td width="50%" valign="top">
-        <h4>🍔 ZingBite — Full-Stack Food Delivery Platform</h4>
-        <p>
-          <a href="https://food-del-frontend-anq3.onrender.com/" target="_blank"><b>Customer App</b></a> | 
-          <a href="https://food-del-admin-2tq7.onrender.com/" target="_blank"><b>Admin Panel</b></a> | 
-          <a href="https://github.com/Utkarshdixit11/ZingBite" target="_blank"><b>GitHub Repo</b></a> | 
-          <a href="./projects/zingbite.md"><b>Documentation</b></a>
-        </p>
-        <p>3-tier food delivery ecosystem (Customer Storefront + Restaurant Admin + Express REST API) with <b>Stripe</b> payments, persistent carts synced across MongoDB sessions, and real-time order status tracking.</p>
+        <p>Multiplayer grid conquest arena powered by native <b>WebSockets</b>. Features 20s tile lock mechanics, cooldown sweeping rings, adjacency cluster streak bonuses (<code>🔥 Combo</code>), and floating administrative controls.</p>
       </td>
     </tr>
   </table>
@@ -228,7 +236,7 @@ Based on full codebase and architectural analysis, here are the **Top 3 Flagship
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
 | **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Frontend & Mobile** | ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![TipTap](https://img.shields.io/badge/TipTap-000000?style=flat-square&logo=codemirror&logoColor=white) |
+| **Frontend, 3D & Motion** | ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![TipTap](https://img.shields.io/badge/TipTap-000000?style=flat-square&logo=codemirror&logoColor=white) |
 | **Backend & Real-Time** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-4A154B?style=flat-square&logo=slack&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white) |
 | **Databases & Storage** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | **AI, Cloud & DevOps** | ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=google&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white) |
