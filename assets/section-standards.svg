@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 48" width="100%" height="48">
+  <defs>
+    <linearGradient id="goldText_05" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C6A76A" />
+      <stop offset="100%" stop-color="#E5CA92" />
+    </linearGradient>
+    <linearGradient id="lineG_05" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C6A76A" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#303036" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#303036" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <style>
+    .mono { font-family: 'SF Mono', 'Fira Code', 'Roboto Mono', monospace; font-size: 11px; letter-spacing: 3px; font-weight: 600; }
+    .serif { font-family: 'Cinzel', 'Playfair Display', 'Times New Roman', serif; font-size: 15px; letter-spacing: 2px; font-weight: 600; }
+  </style>
+
+  <!-- Fine Baseline -->
+  <line x1="0" y1="40" x2="900" y2="40" stroke="url(#lineG_05)" stroke-width="0.75" />
+
+  <!-- Section Number Box -->
+  <rect x="0" y="8" width="46" height="24" fill="#121216" stroke="#C6A76A" stroke-width="0.75" rx="2" />
+  <text x="23" y="24" text-anchor="middle" class="mono" fill="#C6A76A">05</text>
+
+  <!-- Title Text -->
+  <text x="60" y="24" class="serif" fill="#F3EFE6">ARCHITECTURAL PRINCIPLES</text>
+
+  <!-- End Accent Crosshair -->
+  <g transform="translate(885, 24)" stroke="#C6A76A" stroke-width="0.75" stroke-opacity="0.6">
+    <line x1="-5" y1="0" x2="5" y2="0" />
+    <line x1="0" y1="-5" x2="0" y2="5" />
+  </g>
+</svg>

@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 320" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#09090B" />
+      <stop offset="50%" stop-color="#121216" />
+      <stop offset="100%" stop-color="#09090B" />
+    </linearGradient>
+
+    <!-- Gold Accent Gradients -->
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9A7B42" />
+      <stop offset="50%" stop-color="#E5CA92" />
+      <stop offset="100%" stop-color="#C6A76A" />
+    </linearGradient>
+
+    <linearGradient id="goldLineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C6A76A" stop-opacity="0" />
+      <stop offset="30%" stop-color="#C6A76A" stop-opacity="0.8" />
+      <stop offset="70%" stop-color="#E5CA92" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#C6A76A" stop-opacity="0" />
+    </linearGradient>
+
+    <linearGradient id="radialGlow" cx="80%" cy="25%" r="60%">
+      <stop offset="0%" stop-color="#C6A76A" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#09090B" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Architectural Grid Pattern -->
+    <pattern id="archGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#303036" stroke-width="0.5" stroke-opacity="0.4" />
+      <circle cx="40" cy="0" r="1" fill="#C6A76A" fill-opacity="0.25" />
+    </pattern>
+  </defs>
+
+  <style>
+    .mono { font-family: 'SF Mono', 'Fira Code', 'Roboto Mono', 'Courier New', monospace; }
+    .serif-title { font-family: 'Cinzel', 'Didot', 'Playfair Display', 'Times New Roman', serif; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif; }
+  </style>
+
+  <!-- Background Layer -->
+  <rect width="960" height="320" fill="url(#bgGrad)" rx="8" />
+  <rect width="960" height="320" fill="url(#archGrid)" rx="8" />
+  <rect width="960" height="320" fill="url(#radialGlow)" rx="8" />
+
+  <!-- Outer Architectural Border -->
+  <rect x="16" y="16" width="928" height="288" fill="none" stroke="#303036" stroke-width="1" rx="4" />
+  <rect x="22" y="22" width="916" height="276" fill="none" stroke="#C6A76A" stroke-width="0.75" stroke-opacity="0.3" rx="2" />
+
+  <!-- Corner Brackets (Luxury Architectural Flourish) -->
+  <path d="M 16 36 L 16 16 L 36 16" fill="none" stroke="#C6A76A" stroke-width="2" />
+  <path d="M 944 36 L 944 16 L 924 16" fill="none" stroke="#C6A76A" stroke-width="2" />
+  <path d="M 16 284 L 16 304 L 36 304" fill="none" stroke="#C6A76A" stroke-width="2" />
+  <path d="M 944 284 L 944 304 L 924 304" fill="none" stroke="#C6A76A" stroke-width="2" />
+
+  <!-- Technical Registration Crosshairs -->
+  <g stroke="#C6A76A" stroke-width="0.75" stroke-opacity="0.5">
+    <line x1="480" y1="20" x2="480" y2="28" />
+    <line x1="476" y1="24" x2="484" y2="24" />
+    <line x1="480" y1="292" x2="480" y2="300" />
+    <line x1="476" y1="296" x2="484" y2="296" />
+  </g>
+
+  <!-- Top Metadata Header -->
+  <g transform="translate(44, 48)">
+    <!-- Status Indicator -->
+    <circle cx="4" cy="4" r="3.5" fill="#C6A76A" />
+    <circle cx="4" cy="4" r="7" fill="none" stroke="#C6A76A" stroke-width="0.75" stroke-opacity="0.5" />
+    <text x="18" y="7" class="mono" font-size="10.5" fill="#C6A76A" letter-spacing="2">SYSTEM DISPATCH // REPOSITORY: SPECIAL</text>
+    <text x="872" y="7" text-anchor="end" class="mono" font-size="10" fill="#A1A1AA" letter-spacing="1.5">LAT: 26.8467° N · LON: 80.9462° E</text>
+  </g>
+
+  <!-- Fine Header Horizontal Divider -->
+  <line x1="44" y1="68" x2="916" y2="68" stroke="url(#goldLineGrad)" stroke-width="1" />
+
+  <!-- Main Hero Content -->
+  <g transform="translate(44, 98)">
+    <!-- Sub-heading / Atelier Tag -->
+    <text x="0" y="24" class="mono" font-size="11.5" fill="#C6A76A" letter-spacing="3.5">OBSIDIAN ATELIER · SOFTWARE ENGINEERING &amp; ARCHITECTURE</text>
+
+    <!-- Master Monogram & Name -->
+    <text x="0" y="80" class="serif-title" font-size="46" font-weight="600" fill="#F3EFE6" letter-spacing="4">UTKARSH DIXIT</text>
+
+    <!-- Architectural Monogram Ornament -->
+    <g transform="translate(812, 10)">
+      <polygon points="30,0 60,18 60,52 30,70 0,52 0,18" fill="none" stroke="#C6A76A" stroke-width="1" stroke-opacity="0.6" />
+      <polygon points="30,8 52,22 52,48 30,62 8,48 8,22" fill="#1B1B22" stroke="#303036" stroke-width="0.75" />
+      <text x="30" y="42" text-anchor="middle" class="serif-title" font-size="18" font-weight="700" fill="#E5CA92" letter-spacing="1">UD</text>
+    </g>
+
+    <!-- Headline Specialty -->
+    <text x="0" y="112" class="sans" font-size="15" font-weight="300" fill="#F3EFE6" letter-spacing="1.2">
+      Full-Stack &amp; Mobile Engineer <tspan fill="#C6A76A">·</tspan> Real-Time Systems <tspan fill="#C6A76A">·</tspan> Generative AI Integrations
+    </text>
+
+    <!-- Philosophy Axiom -->
+    <text x="0" y="136" class="sans" font-size="12" font-style="italic" fill="#A1A1AA" letter-spacing="0.5">
+      "Architecting zero-latency collaborative systems and AI-augmented workflows with mathematical precision."
+    </text>
+  </g>
+
+  <!-- Bottom Technical Strip -->
+  <line x1="44" y1="262" x2="916" y2="262" stroke="#303036" stroke-width="0.75" />
+  
+  <g transform="translate(44, 284)">
+    <text x="0" y="0" class="mono" font-size="9.5" fill="#A1A1AA" letter-spacing="1.5">
+      CORE: <tspan fill="#F3EFE6">REACT 19</tspan> · <tspan fill="#F3EFE6">TYPESCRIPT</tspan> · <tspan fill="#F3EFE6">FLUTTER</tspan> · <tspan fill="#F3EFE6">NODE.JS</tspan> · <tspan fill="#F3EFE6">SOCKET.IO</tspan> · <tspan fill="#F3EFE6">GEMINI 2.5</tspan>
+    </text>
+    <text x="872" y="0" text-anchor="end" class="mono" font-size="9.5" fill="#C6A76A" letter-spacing="1.5">
+      VERIFIED BUILD // 2026 EDITION
+    </text>
+  </g>
+</svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 140" width="100%" height="100%">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#09090B" />
+      <stop offset="50%" stop-color="#121216" />
+      <stop offset="100%" stop-color="#09090B" />
+    </linearGradient>
+
+    <pattern id="fGrid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#303036" stroke-width="0.5" stroke-opacity="0.3" />
+    </pattern>
+
+    <linearGradient id="fGold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#303036" stop-opacity="0" />
+      <stop offset="40%" stop-color="#C6A76A" stop-opacity="0.9" />
+      <stop offset="50%" stop-color="#F3EFE6" stop-opacity="1" />
+      <stop offset="60%" stop-color="#C6A76A" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#303036" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .mono { font-family: 'SF Mono', 'Fira Code', 'Roboto Mono', monospace; }
+    .serif { font-family: 'Cinzel', 'Didot', 'Playfair Display', serif; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Inter', sans-serif; }
+  </style>
+
+  <!-- Background -->
+  <rect width="960" height="140" fill="url(#footerBg)" rx="6" />
+  <rect width="960" height="140" fill="url(#fGrid)" rx="6" />
+  <rect x="0.5" y="0.5" width="959" height="139" fill="none" stroke="#303036" rx="6" />
+
+  <!-- Top Center Accent Divider -->
+  <line x1="80" y1="1" x2="880" y2="1" stroke="url(#fGold)" stroke-width="1.5" />
+
+  <!-- Corner Brackets -->
+  <path d="M 12 24 L 12 12 L 24 12" fill="none" stroke="#C6A76A" stroke-width="1.5" />
+  <path d="M 948 24 L 948 12 L 936 12" fill="none" stroke="#C6A76A" stroke-width="1.5" />
+  <path d="M 12 116 L 12 128 L 24 128" fill="none" stroke="#C6A76A" stroke-width="1.5" />
+  <path d="M 948 116 L 948 128 L 936 128" fill="none" stroke="#C6A76A" stroke-width="1.5" />
+
+  <!-- Content -->
+  <g transform="translate(480, 50)" text-anchor="middle">
+    <!-- Emblem -->
+    <polygon points="0,-10 8,0 0,10 -8,0" fill="#C6A76A" />
+    
+    <!-- Title -->
+    <text y="28" class="serif" font-size="14" fill="#F3EFE6" letter-spacing="4" font-weight="600">OBSIDIAN ATELIER · UTKARSH DIXIT</text>
+    
+    <!-- Subtitle -->
+    <text y="48" class="mono" font-size="9" fill="#A1A1AA" letter-spacing="2">ARCHITECTED WITH MATHEMATICAL RIGOR, RESTRAINED MINIMALISM &amp; LUXURY PRECISION</text>
+    
+    <!-- Stamp -->
+    <text y="68" class="mono" font-size="8.5" fill="#C6A76A" letter-spacing="2">MMXXVI // ALL RIGHTS RESERVED · LUCKNOW, INDIA</text>
+  </g>
+</svg>

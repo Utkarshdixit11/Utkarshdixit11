@@ -1,305 +1,291 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,36,42&height=230&section=header&text=Utkarsh%20Dixit&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20%E2%80%A2%20Flutter%20%E2%80%A2%20AI%20Integrations%20Engineer&descFontSize=19&descAlignY=64&descColor=38BDF8&animation=twinkling" width="100%" alt="Utkarsh Dixit Banner" />
+<!-- ========================================================================= -->
+<!-- 01 // SIGNATURE HERO BANNER & IDENTITY                                   -->
+<!-- ========================================================================= -->
 
-<!-- Creative Typing Animation -->
-<a href="https://github.com/Utkarshdixit11">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+MERN+%26+Flutter+Mobile+Developer;Architecting+Real-Time+Multiplayer+Systems;Engineering+Gemini+AI+%26+LLM+Pipelines;Crafting+Production-Ready+Web+%26+Mobile+Apps;Fast%2C+Reliable+%26+Modern+Full-Stack+Architecture" alt="Typing Animation" />
-</a>
+<img src="./assets/hero-banner.svg" width="100%" alt="Utkarsh Dixit — Obsidian Atelier Hero" />
 
 <br/><br/>
 
-<!-- Interactive Social Badges -->
+<!-- Refined Luxury Navigation Badges -->
 <p align="center">
   <a href="https://linkedin.com/in/utkarshdixit9" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-09090B?style=for-the-badge&logo=linkedin&logoColor=C6A76A" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:utkarshdixit925@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/GMAIL-09090B?style=for-the-badge&logo=gmail&logoColor=C6A76A" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/Utkarshdixit11" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-09090B?style=for-the-badge&logo=github&logoColor=C6A76A" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://slay-sheet.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Featured_App-SlaySheet-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Featured App" />
+    <img src="https://img.shields.io/badge/FLAGSHIP_APP-SLAYSHEET-09090B?style=for-the-badge&logo=vercel&logoColor=C6A76A" alt="SlaySheet App" />
   </a>
   &nbsp;
   <a href="./Utkarsh_Dixit_Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-PDF-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume PDF" />
+    <img src="https://img.shields.io/badge/CURRICULUM_VITAE-PDF-09090B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=C6A76A" alt="Resume PDF" />
   </a>
 </p>
 
-<!-- Live Profile Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/📍_Location-Lucknow%2C%20India-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/🎓_Education-BCA%20(2024--2027)-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/⚡_Status-Open%20to%20Opportunities-success?style=flat-square" />
-</p>
-
-<!-- Glowing Cyber Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Glowing Divider" />
+<!-- Fine Architectural Gold Divider -->
+<img src="./assets/gold-divider.svg" width="100%" alt="Divider" />
 
 </div>
 
----
+<br/>
 
-### 👨‍💻 About Me
+<!-- ========================================================================= -->
+<!-- 02 // SYSTEM IDENTITY & PHILOSOPHY                                       -->
+<!-- ========================================================================= -->
 
-I am a **Full-Stack and Flutter Developer** who builds and ships end-to-end web and mobile applications with modern architectures. My work focuses on **real-time collaborative systems** (WebSockets, Socket.IO), **Generative AI integrations** (Google Gemini), and scalable full-stack products.
-
-- 🚀 **Industry Experience**: Shipped production features across iOS, Android, and Web applications at **PanScience Innovations LLP** (including **Botza**, **OwnChat**, and **Steno AI**).
-- 🏆 **Honors & Certifications**: Completed intensive industrial training in Full-Stack MERN and Artificial Intelligence at **NIELIT Lucknow (MeitY, Govt. of India)** with highest honors (**Grade S, 80%+**).
-- 🎓 **Education**: Bachelor of Computer Applications (BCA, 2024–2027) at Shri Ramswaroop Memorial College of Management, Lucknow.
-
-<!-- Glowing Cyber Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Glowing Divider" />
-
----
-
-### 🏆 Top 3 Flagship Projects
-
-Curated showcase matching production experience and resume benchmarks:
+<img src="./assets/section-identity.svg" width="100%" alt="Section 01: System Identity &amp; Philosophy" />
 
 <br/>
 
-<!-- TOP 1: SLAYSHEET HERO CARD -->
-<table>
-  <tr>
-    <td width="100%" valign="top">
-      <div align="center">
-        <h3>🥇 01. SlaySheet — Real-Time Collaborative Workspace & Gemini AI</h3>
-        <p>
-          <a href="https://slay-sheet.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/🚀_Launch_Live_App-slay--sheet.vercel.app-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="SlaySheet Live" />
-          </a>
-          &nbsp;
-          <a href="./projects/slaysheet.md">
-            <img src="https://img.shields.io/badge/📖_Read_Deep_Dive-Docs-3B82F6?style=for-the-badge&logo=markdown&logoColor=white" alt="SlaySheet Docs" />
-          </a>
-        </p>
-      </div>
-      <p align="center">
-        <em>A next-generation collaborative document workspace featuring live multiplayer editing, keystroke-level version time travel, an integrated Gemini AI writing partner, ambient focus soundscapes, and curated executive templates.</em>
-      </p>
-      <ul>
-        <li><b>⚡ Real-Time Multiplayer:</b> Room-based user presence, remote active cursors, and concurrent live editing powered by <b>Socket.IO</b>.</li>
-        <li><b>⏳ Keystroke "Time Machine":</b> Granular revision replay engine with author attribution, variable playback scrubber (<code>0.5x</code> to <code>5x</code>), and one-click rollback functionality.</li>
-        <li><b>🤖 Gemini AI Writing Partner:</b> In-editor context-aware sidecar assistant for instant summarization, clarity improvement, tone enhancement, and outline generation.</li>
-        <li><b>📐 Word Studio Canvas:</b> True-to-life 96 DPI Letter pagination, typography studio, and embedded ambient soundscapes for deep focus.</li>
-      </ul>
-      <div align="center">
-        <img src="https://img.shields.io/badge/React_19-61DAFB?logo=react&logoColor=black&style=flat-square" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/TipTap-000000?logo=codemirror&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/Socket.IO_4.8-010101?logo=socketdotio&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/Gemini_AI_2.1-4285F4?logo=google&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
-      </div>
-    </td>
-  </tr>
-</table>
+> **"Software engineering is an architectural discipline. I build high-throughput, low-latency digital systems where mechanical sympathy meets cinematic user experience."**
 
-<br/>
+I am a **Full-Stack and Mobile Systems Engineer** based in Lucknow, India. My engineering practice centers on **real-time multiplayer protocols** (WebSockets, Socket.IO), **Generative AI workflows** (Google Gemini API, RAG pipelines, contextual agents), and **client-side data processing engines**.
 
-<!-- TOP 2 & TOP 3 SIDE-BY-SIDE CARDS -->
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🥈 02. HireMind AI — Recruitment</h3>
-        <p>
-          <a href="https://hire-mind-ai-ud.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/🚀_Live_Demo-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="HireMind Live" />
-          </a>
-          &nbsp;
-          <a href="https://github.com/Utkarshdixit11/HireMind-AI" target="_blank">
-            <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="HireMind Code" />
-          </a>
-          &nbsp;
-          <a href="./projects/hiremind-ai.md">
-            <img src="https://img.shields.io/badge/📖_Docs-3B82F6?style=for-the-badge&logo=markdown&logoColor=white" alt="HireMind Docs" />
-          </a>
-        </p>
-      </div>
-      <p><strong>AI-Powered Cinematic Recruitment Ecosystem & ATS Coach</strong></p>
-      <ul>
-        <li><b>🎯 Intelligent Resume Parsing:</b> Extracts skills, education, and career milestones from documents to evaluate 0–100% job-fit scores with gap analysis.</li>
-        <li><b>🎙️ Interactive AI Interview Coach:</b> Context-aware prep coach dynamically referencing candidate resumes and target job criteria.</li>
-        <li><b>📋 Kanban Pipeline Tracker:</b> Visual recruitment lifecycle tracking candidates from applied to interviewed and offered.</li>
-        <li><b>✍️ AI Cover Letter Builder:</b> One-click bespoke letter generation tailored to specific role requirements.</li>
-        <li><b>🔐 Secure Dual Authentication:</b> JWT tokens alongside Google OAuth 2.0 (Passport.js).</li>
-      </ul>
-      <div align="center">
-        <img src="https://img.shields.io/badge/React-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?logo=google&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🥉 03. ZingBite — Food Delivery</h3>
-        <p>
-          <a href="https://food-del-frontend-anq3.onrender.com/" target="_blank">
-            <img src="https://img.shields.io/badge/🛍️_Customer_Store-orange?style=for-the-badge&logo=render&logoColor=white" alt="ZingBite Store" />
-          </a>
-          &nbsp;
-          <a href="https://food-del-admin-2tq7.onrender.com/" target="_blank">
-            <img src="https://img.shields.io/badge/🛠️_Admin-blueviolet?style=for-the-badge&logo=render&logoColor=white" alt="ZingBite Admin" />
-          </a>
-          &nbsp;
-          <a href="https://github.com/Utkarshdixit11/ZingBite" target="_blank">
-            <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="ZingBite Repo" />
-          </a>
-        </p>
-      </div>
-      <p><strong>Full-Stack Food Delivery Platform & Restaurant Admin Suite</strong></p>
-      <ul>
-        <li><b>🛒 Persistent Cart Sync:</b> Cart state automatically syncs to MongoDB, surviving page reloads and device logouts.</li>
-        <li><b>💳 Stripe Payment Verification:</b> Server-side checkout verification and webhook status confirmations.</li>
-        <li><b>🛠️ Restaurant Management Panel:</b> Multi-route dashboard for real-time menu manipulation, Multer uploads, and order dispatching.</li>
-        <li><b>⚡ High Performance:</b> Optimized queries reducing order retrieval latency by ~40% across active customer routes.</li>
-        <li><b>🔐 JWT & bcrypt Protection:</b> End-to-end secured user sessions and protected API routes.</li>
-      </ul>
-      <div align="center">
-        <img src="https://img.shields.io/badge/React_19-61DAFB?logo=react&logoColor=black&style=flat-square" />
-        <img src="https://img.shields.io/badge/Express_5-000000?logo=express&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- COLLAPSIBLE OTHER PROJECTS -->
-<details>
-  <summary><b>📂 View Other Notable Projects (Replay, GridWars)</b></summary>
-  <br/>
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h4>🎧 Replay — Private In-Browser Spotify Wrapped</h4>
-        <p>
-          <a href="https://replay-xi-rose.vercel.app/" target="_blank"><b>Live Demo</b></a> | 
-          <a href="./projects/replay.md"><b>Documentation</b></a>
-        </p>
-        <p>100% private in-browser Spotify Wrapped with <b>zero egress</b>. Web Worker pipeline decodes 500k+ plays in &lt;4s using <code>fflate</code>. Features 1080×1920 9:16 exportable story cards and cosine similarity taste matching vectors.</p>
-      </td>
-      <td width="50%" valign="top">
-        <h4>⚔️ GridWars — Real-Time Multiplayer Territory Conquest</h4>
-        <p>
-          <a href="https://gridwars-7w1b.onrender.com/" target="_blank"><b>Play Live Arena</b></a> | 
-          <a href="https://github.com/Utkarshdixit11/GridWars" target="_blank"><b>GitHub Repo</b></a> | 
-          <a href="./projects/gridwars.md"><b>Documentation</b></a>
-        </p>
-        <p>Multiplayer grid conquest arena powered by native <b>WebSockets</b>. Features 20s tile lock mechanics, cooldown sweeping rings, adjacency cluster streak bonuses (<code>🔥 Combo</code>), and floating administrative controls.</p>
-      </td>
-    </tr>
-  </table>
-</details>
-
-<!-- Glowing Cyber Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Glowing Divider" />
-
----
-
-### 🛠️ Technical Arsenal
-
-<div align="center">
-
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Frontend, 3D & Motion** | ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![TipTap](https://img.shields.io/badge/TipTap-000000?style=flat-square&logo=codemirror&logoColor=white) |
-| **Backend & Real-Time** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-4A154B?style=flat-square&logo=slack&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white) |
-| **Databases & Storage** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **AI, Cloud & DevOps** | ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=google&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white) |
-
-</div>
-
-<!-- Glowing Cyber Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Glowing Divider" />
-
----
-
-### 💼 Production Experience
-
-```yaml
-- Role: Full Stack Development Intern (MERN)
-  Organization: NIELIT Lucknow (MeitY, Govt. of India)
-  Period: Jun 2026 – Aug 2026
-  Honors: Grade S (80%+)
-  Deliverables: Built high-throughput Node.js/Express REST APIs and reactive React state architectures.
-
-- Role: Full Stack Developer Intern (Shipped 7 Production Apps)
-  Organization: PanScience Innovations LLP (predco.ai)
-  Period: Dec 2025 – Mar 2026
-  Deliverables:
-    - Botza & OwnChat: Flutter Android/iOS mobile apps with Gemini AI + RAG over 100+ page PDFs.
-    - StenoAI: Courtroom real-time ASR desktop tool with legal argument extraction & automated summarization.
-    - Curiosity App & Storymint: Integrated short-form reels & FlipTales modules into live codebases.
-    - Contributed across production MERN microservices, GitHub pull requests, and live deployments.
-
-- Role: Artificial Intelligence Intern
-  Organization: NIELIT Lucknow (MeitY, Govt. of India)
-  Period: Jun 2025 – Aug 2025
-  Honors: Grade S (80%+)
-  Deliverables: Machine learning fundamentals, NLP, speech recognition pipelines, and Python data analysis (NumPy, Pandas).
+```
+┌── SYSTEM DISPATCH // CREDENTIALS & CADENCE ───────────────────────────────────────────────┐
+│ PRINCIPAL:      Utkarsh Dixit                                                             │
+│ EDUCATION:      Bachelor of Computer Applications (2024–2027)                             │
+│ INSTITUTION:    Shri Ramswaroop Memorial College of Management, Lucknow                   │
+│ HONORS:         NIELIT Lucknow (MeitY, Govt. of India) — Grade 'S' (80%+) Full-Stack MERN │
+│ HONORS:         NIELIT Lucknow (MeitY, Govt. of India) — Grade 'S' (80%+) Artificial Intel│
+│ COMMERCIAL:     Shipped 7 Production Apps @ PanScience Innovations LLP                    │
+│ DOMAIN FOCUS:   Real-Time Collaboration · Generative AI Systems · Cross-Platform Mobile   │
+└───────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-<!-- Glowing Cyber Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Glowing Divider" />
+#### Production Highlights & Track Record:
+* **PanScience Innovations LLP (Dec 2025 – Mar 2026)**: Shipped production cross-platform mobile features for iOS and Android across commercial products, including **Botza** and **OwnChat** (Flutter with Gemini API + RAG over 100+ page documents). Engineered **Steno AI** (speech-to-text recording, transcription, and legal argument summarization for desktop).
+* **NIELIT Lucknow — Ministry of Electronics & IT (Jun 2026 – Aug 2026)**: Completed 90-hour industrial training with top-tier **Grade S (80%+)**, engineering end-to-end REST APIs with Node.js/Express, component state trees in React, and persistent MongoDB/MySQL pipelines.
+* **NIELIT Lucknow — Artificial Intelligence (Jun 2025 – Aug 2025)**: Completed 90-hour AI training with **Grade S (80%+)**, implementing speech recognition pipelines, scientific computing with NumPy/Pandas, and fundamental ML/NLP architectures.
 
----
-
-### 📈 GitHub Statistics & Activity
+<br/>
 
 <div align="center">
-  <table border="0">
+  <img src="./assets/gold-divider.svg" width="100%" alt="Divider" />
+</div>
+
+<br/>
+
+<!-- ========================================================================= -->
+<!-- 03 // TECHNICAL ARSENAL & SYSTEMS                                        -->
+<!-- ========================================================================= -->
+
+<img src="./assets/section-arsenal.svg" width="100%" alt="Section 02: Technical Arsenal &amp; Systems" />
+
+<br/>
+
+An intentional inventory of technologies applied across real-world commercial and open-source production:
+
+| Technical Layer | Primary Technologies | Architectural Focus |
+| :--- | :--- | :--- |
+| **Languages & Runtimes** | `TypeScript` · `JavaScript (ES6+)` · `Dart` · `Python` · `Java` | Strongly typed domain modeling, asynchronous event loops, scripting |
+| **Frontend & Mobile** | `React 19` · `Next.js` · `Flutter (Android & iOS)` · `Vite` · `TipTap` | Component state machines, rich text document canvas, cross-platform UI |
+| **Backend & Real-Time** | `Node.js` · `Express 5` · `Socket.IO 4.8` · `Native WebSockets` · `REST APIs` | Bidirectional state sync, remote cursors, room presence, rate-limiting |
+| **Databases & Storage** | `MongoDB (Mongoose)` · `PostgreSQL` · `MySQL` · `Atlas Search` | Schema design, indexing strategies, persistent cart sessions, audit trails |
+| **AI, Models & Pipelines** | `Google Gemini 2.5 Flash` · `RAG Pipelines` · `Speech-to-Text (ASR)` | Document summarization, resume parsing, interview coaching simulation |
+| **Security & Payments** | `Stripe Hosted Checkout` · `JWT (JSON Web Tokens)` · `Google OAuth 2.0` | Server-side payment verification, bcrypt password hashing, session cookies |
+| **Tooling & Cloud** | `Git` · `GitHub Actions` · `Vercel` · `Render` · `Postman` | CI/CD pipelines, zero-downtime hosting, comprehensive API verification |
+
+<br/>
+
+<div align="center">
+  <img src="./assets/gold-divider.svg" width="100%" alt="Divider" />
+</div>
+
+<br/>
+
+<!-- ========================================================================= -->
+<!-- 04 // CURATED FLAGSHIP EXHIBITION                                        -->
+<!-- ========================================================================= -->
+
+<img src="./assets/section-exhibition.svg" width="100%" alt="Section 03: Curated Flagship Exhibition" />
+
+<br/>
+
+The three premier applications demonstrating real-time concurrency, generative AI pipelines, and commercial-grade commerce:
+
+<br/>
+
+<!-- EXHIBIT 01: SLAYSHEET -->
+<a href="https://slay-sheet.vercel.app/" target="_blank">
+  <img src="./assets/project-slaysheet.svg" width="100%" alt="Exhibit 01: SlaySheet" />
+</a>
+
+<br/>
+
+* **Primary Proposition**: A real-time collaborative document editor engineered with granular keystroke version replay and contextual Gemini AI assistance.
+* **Core Engineering**:
+  * **Multiplayer Room Presence**: Socket avatar broadcasting, remote cursor position synchronization, and conflict-free collaborative writing via **Socket.IO**.
+  * **Keystroke "Time Machine"**: Keystroke-level audit trail storing author attribution and timestamps, enabling variable-speed visual scrubber playback (`0.5x` to `5x`) and one-click rollbacks.
+  * **Contextual Gemini AI Partner**: Sidecar assistant drawer for real-time document summarization, tone enhancement, and structured outline brainstorming.
+  * **Standard Letter Canvas**: True-to-life 96 DPI pagination with automatic page breaks and ambient focus audio soundscapes.
+* **Access Points**: [**Live Application**](https://slay-sheet.vercel.app/) · [**Architecture Documentation**](./projects/slaysheet.md)
+
+<br/>
+
+<!-- EXHIBIT 02: HIREMIND AI -->
+<a href="https://hire-mind-ai-ud.vercel.app/" target="_blank">
+  <img src="./assets/project-hiremind.svg" width="100%" alt="Exhibit 02: HireMind AI" />
+</a>
+
+<br/>
+
+* **Primary Proposition**: An intelligent, cinematic recruitment platform and interactive AI interview preparation coach built on Google Gemini 2.5 Flash.
+* **Core Engineering**:
+  * **Automated Resume Parsing**: Extracts technical competencies, educational history, and work milestones to calculate real-time 0–100% suitability match scores with gap analysis.
+  * **Interactive AI Interview Coach**: Tailored conversational simulator referencing candidate resumes and target job criteria for situational and technical preparation.
+  * **Recruiter ATS Pipeline**: Kanban-style candidate workflow managing stages from shortlisted to interviewed and offered.
+  * **Security & Auth**: Dual authentication architecture featuring JWT tokens and Google OAuth 2.0 (Passport.js).
+* **Access Points**: [**Live Application**](https://hire-mind-ai-ud.vercel.app/) · [**GitHub Repository**](https://github.com/Utkarshdixit11/HireMind-AI) · [**Architecture Documentation**](./projects/hiremind-ai.md)
+
+<br/>
+
+<!-- EXHIBIT 03: ZINGBITE -->
+<a href="https://food-del-frontend-anq3.onrender.com/" target="_blank">
+  <img src="./assets/project-zingbite.svg" width="100%" alt="Exhibit 03: ZingBite" />
+</a>
+
+<br/>
+
+* **Primary Proposition**: A full-stack, three-tier food delivery platform with persistent cart synchronization, Stripe hosted payments, and dedicated restaurant administration.
+* **Core Engineering**:
+  * **3-Tier Production Architecture**: Separate customer storefront, restaurant admin dashboard, and Express REST API backend.
+  * **Persistent Cart Synchronization**: Carts survive device logouts and browser refreshes by continuously synchronizing state with MongoDB.
+  * **Stripe Hosted Checkout**: Secure checkout workflows with server-side payment verification and automated order confirmations.
+  * **Restaurant Administration**: Dedicated portal for menu catalog additions (Multer multipart image uploads) and real-time order lifecycle status management.
+* **Access Points**: [**Customer Storefront**](https://food-del-frontend-anq3.onrender.com/) · [**Restaurant Admin**](https://food-del-admin-2tq7.onrender.com/) · [**GitHub Repository**](https://github.com/Utkarshdixit11/ZingBite) · [**Architecture Documentation**](./projects/zingbite.md)
+
+<br/>
+
+<!-- UNDERSTATED ARCHIVE ACCORDION -->
+<details>
+  <summary><b>📂 ATELIER ARCHIVE // VIEW ADDITIONAL PRODUCTION SYSTEMS (REPLAY &amp; GRIDWARS)</b></summary>
+  <br/>
+  
+  | Project | Domain | Architecture Highlights | Links |
+  | :--- | :--- | :--- | :--- |
+  | **Replay** | Privacy-First Analytics | 100% in-browser Spotify Wrapped with **zero network egress**. Streaming Web Worker unzips 500k+ plays in &lt;4s via `fflate`. Generates downloadable 1080×1920 9:16 story cards and vector cosine similarity taste match scores. | [Live Demo](https://replay-xi-rose.vercel.app/) · [Docs](./projects/replay.md) |
+  | **GridWars** | Real-Time Gaming Arena | Synchronized multiplayer territory conquest battle via native **WebSockets**. Features 20s tile lock duration, cooldown sweeping rings, adjacent cluster streak bonuses (`🔥 Combo`), live leaderboards, and administrative grid controls. | [Play Arena](https://gridwars-7w1b.onrender.com/) · [GitHub](https://github.com/Utkarshdixit11/GridWars) · [Docs](./projects/gridwars.md) |
+</details>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/gold-divider.svg" width="100%" alt="Divider" />
+</div>
+
+<br/>
+
+<!-- ========================================================================= -->
+<!-- 05 // REPOSITORY METRICS & CADENCE                                       -->
+<!-- ========================================================================= -->
+
+<img src="./assets/section-cadence.svg" width="100%" alt="Section 04: Repository Metrics &amp; Cadence" />
+
+<br/>
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Utkarshdixit11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&count_private=true" alt="Utkarsh's GitHub Stats" />
+      <td align="center" valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api?username=Utkarshdixit11&show_icons=true&hide_border=false&bg_color=09090B&title_color=C6A76A&text_color=A1A1AA&icon_color=C6A76A&border_color=303036" alt="Utkarsh's GitHub Stats" />
       </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarshdixit11&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="GitHub Streak" />
+      <td width="20"></td>
+      <td align="center" valign="middle">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarshdixit11&background=09090B&border=303036&stroke=303036&ring=C6A76A&fire=C6A76A&currStreakNum=F3EFE6&currStreakLabel=C6A76A&sideNums=F3EFE6&sideLabels=A1A1AA&dates=A1A1AA" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshdixit11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
+      <td colspan="3" height="16"></td>
+    </tr>
+    <tr>
+      <td colspan="3" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshdixit11&layout=compact&hide_border=false&bg_color=09090B&title_color=C6A76A&text_color=A1A1AA&border_color=303036" alt="Top Languages" />
       </td>
     </tr>
   </table>
 </div>
 
----
+<br/>
 
-### 🤝 Let's Connect & Build Together!
+<div align="center">
+  <img src="./assets/gold-divider.svg" width="100%" alt="Divider" />
+</div>
+
+<br/>
+
+<!-- ========================================================================= -->
+<!-- 06 // ARCHITECTURAL PRINCIPLES                                           -->
+<!-- ========================================================================= -->
+
+<img src="./assets/section-standards.svg" width="100%" alt="Section 05: Architectural Principles" />
+
+<br/>
+
+```yaml
+01_LATENCY_DISCIPLINE:
+  Principle: "State changes must propagate without friction."
+  Practice:  "Leverage WebSockets and Web Workers to isolate heavy computation off the main thread."
+
+02_DATA_INTEGRITY_&_PRIVACY:
+  Principle: "User privacy is an architectural foundation, not an afterthought."
+  Practice:  "Employ zero-egress client sandboxing for sensitive analytics and strict server-side validation."
+
+03_AUGMENTATION_OVER_NOVELTY:
+  Principle: "AI integrations must solve tangible workflow friction."
+  Practice:  "Design purpose-driven LLM chains with structured output constraints and graceful fallbacks."
+
+04_MECHANICAL_SYMPATHY:
+  Principle: "Understand every abstraction from database indices to browser paint cycles."
+  Practice:  "Clean code, predictable algorithmic complexity, and intentional negative space."
+```
+
+<br/>
+
+<div align="center">
+  <img src="./assets/gold-divider.svg" width="100%" alt="Divider" />
+</div>
+
+<br/>
+
+<!-- ========================================================================= -->
+<!-- 07 // ATELIER COLOPHON & ENGAGEMENT                                      -->
+<!-- ========================================================================= -->
+
+<img src="./assets/section-colophon.svg" width="100%" alt="Section 06: Atelier Colophon &amp; Engagement" />
+
+<br/>
+
+I welcome technical discussions, collaborative opportunities on high-impact systems, and engineering inquiries.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/utkarshdixit9" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:utkarshdixit925@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Drop%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Utkarshdixit11" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20%40Utkarshdixit11-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/utkarshdixit9" target="_blank">
+    <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-09090B?style=for-the-badge&logo=linkedin&logoColor=C6A76A" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:utkarshdixit925@gmail.com">
+    <img src="https://img.shields.io/badge/DISPATCH_AN_EMAIL-09090B?style=for-the-badge&logo=gmail&logoColor=C6A76A" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Utkarshdixit11" target="_blank">
+    <img src="https://img.shields.io/badge/FOLLOW_%40UTKARSHDIXIT11-09090B?style=for-the-badge&logo=github&logoColor=C6A76A" alt="GitHub" />
+  </a>
+</p>
 
-<br/><br/>
+<br/>
 
-<!-- Wavy Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,36,42&height=120&section=footer&animation=twinkling" width="100%" alt="Footer" />
+<!-- Luxury Architectural Footer Banner -->
+<img src="./assets/footer-banner.svg" width="100%" alt="Obsidian Atelier Footer" />
 
 </div>
