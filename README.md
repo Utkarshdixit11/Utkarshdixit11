@@ -4,7 +4,7 @@
 <!-- 01 // SIGNATURE HERO BANNER & IDENTITY                                   -->
 <!-- ========================================================================= -->
 
-<img src="./assets/hero-banner.svg" width="100%" alt="Utkarsh Dixit — Obsidian Atelier Hero" />
+<img src="./assets/hero-banner.svg" width="100%" alt="Utkarsh Dixit — Obsidian Atelier Hero"/>
 
 <br/><br/>
 
